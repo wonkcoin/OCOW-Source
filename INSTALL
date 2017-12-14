@@ -1,0 +1,9 @@
+Building OCOW
+
+See doc/readme-qt.rst for instructions on building OCOW QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of OCOW.
+
+See doc/build-*.txt for instructions on building ocowd,
+the intended-for-services, no-graphical-interface, reference
+implementation of OCOW.
